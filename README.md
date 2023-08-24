@@ -1,4 +1,4 @@
-# <UC Berkeley Prework Study Guide>
+# <UCBerkeley Prework Study Guide>
 
 ## Description
 
